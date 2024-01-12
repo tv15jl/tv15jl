@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**tv15jl/tv15jl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is our team organization page for COSC 4P02 Software Engineering II at Brock University. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Team Members 👥
+| Name | Student Number|
+|------|---------------|
+| [Enter Name](https://github.com/tbd) - *Team Leader* | 0000000 |
+| [Enter Name](https://github.com/tbd) - *Scrum Master*| 0000000 |
+| [Thomas Van Veen](https://github.com/tv15jl)| 5937123 |
+| [Enter Name](https://github.com/tbd)| 0000000 |
+| [Enter Name](https://github.com/tbd)| 0000000 |
